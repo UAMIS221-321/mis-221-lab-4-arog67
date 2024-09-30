@@ -1,0 +1,15 @@
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/mis-221-lab-4-arog67.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/mis-221-lab-4-arog67.AssemblyInfoInputs.cache
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/mis-221-lab-4-arog67.AssemblyInfo.cs
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/mis-221-lab-4-arog67.csproj.CoreCompileInputs.cache
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/mis-221-lab-4-arog67.sourcelink.json
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/bin/Debug/net8.0/mis-221-lab-4-arog67
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/bin/Debug/net8.0/mis-221-lab-4-arog67.deps.json
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/bin/Debug/net8.0/mis-221-lab-4-arog67.runtimeconfig.json
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/bin/Debug/net8.0/mis-221-lab-4-arog67.dll
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/bin/Debug/net8.0/mis-221-lab-4-arog67.pdb
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/mis-221-lab-4-arog67.dll
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/refint/mis-221-lab-4-arog67.dll
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/mis-221-lab-4-arog67.pdb
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/mis-221-lab-4-arog67.genruntimeconfig.cache
+/Users/austinrogers/Documents/source/MIS221_Repos/LABS/mis-221-lab-4-arog67/obj/Debug/net8.0/ref/mis-221-lab-4-arog67.dll
